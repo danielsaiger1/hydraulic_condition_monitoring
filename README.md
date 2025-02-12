@@ -1,4 +1,4 @@
-# Condition Monitoring of a hydraulic system
+# Condition Monitoring of hydraulic systems
 # Hydraulic Test Rig Dataset
 The used dataset can be downloaded under this link: https://archive.ics.uci.edu/dataset/447/condition+monitoring+of+hydraulic+systems
 
