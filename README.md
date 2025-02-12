@@ -10,7 +10,7 @@ The goal of the project is to use different techniques (Machine Learning & Deep 
 
 The dataset contains raw sensor data, recorded by the following sensors:
 
-| Sensor | Physical Quantity | Unit  | Sampling Rate |
+|Sensor |Physical Quantity |Unit  |Sampling Rate |
 |--------|-------------------|-------|---------------|
 | PS1 - PS6 | Pressure | bar  | 100 Hz |
 | EPS1 | Motor Power | W | 100 Hz |
